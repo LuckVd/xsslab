@@ -1,6 +1,8 @@
 # xsslab
 一个xssl靶场
-该项目配合https://luckvd.github.io/2023/07/03/xss原理与检测/一文使用
+该项目配合https://luckvd.github.io/2023/07/03/xss原理与检测/
+
+一文使用
 
 根据注入点的不同，有如下分类
 其中case1和case2是普通tag的contents
